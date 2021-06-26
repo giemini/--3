@@ -1,0 +1,28 @@
+.main-discount {
+  background-image: url("../discountimg/4072305.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 14% 2rem;
+  color: #fff;
+}
+
+.discount {
+  padding: 20px;
+}
+
+.discount .title {
+  margin-top: 20px;
+  color: #f80000;
+}
+
+.discount h4 {
+  margin-top: 20px;
+}
+
+.main-footer {
+  background-color: #000;
+  padding: 20px 0;
+  color: #fff;
+}
+/*# sourceMappingURL=aboutus.css.map */

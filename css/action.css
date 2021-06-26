@@ -1,0 +1,38 @@
+.carousel-caption h5 {
+  font-size: 3.25rem;
+}
+
+.carousel-caption p {
+  font-size: 2rem;
+}
+
+.main-footer {
+  background-color: #000;
+  padding: 20px 0;
+  color: #fff;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.list-group .active {
+  background-color: transparent;
+  color: #000;
+  border-color: rgba(0, 0, 0, 0.125);
+}
+
+.list-group .list-group-item:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.row a {
+  text-decoration: none;
+  color: #000;
+}
+
+.row .list-group {
+  margin-bottom: 30px;
+}
+/*# sourceMappingURL=action.css.map */

@@ -1,0 +1,15 @@
+.navbar-light {
+    .navbar-nav {
+        li.nav-item {
+            .nav-link {
+                color: rgba(0, 0, 0, .5);
+                cursor: pointer;
+            }
+            .disabled {
+                cursor: pointer;
+                color: rgba(0, 0, 0, .5);
+                pointer-events: visible;
+            }
+        }
+    }
+}

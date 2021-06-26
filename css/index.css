@@ -1,0 +1,41 @@
+.carousel-caption h5 {
+  font-size: 3.25rem;
+}
+
+.carousel-caption p {
+  font-size: 2rem;
+}
+
+.jumbotron {
+  background-image: url("../indeximg/01-2-4.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-radius: 0rem;
+  margin-bottom: 0;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .jumbotron {
+    padding: 10% 2rem;
+  }
+}
+
+.girl .jumbotron {
+  background-image: url("../indeximg/OzDCKldNtGtNqSaZcL1RJXtM52bAYSut8YkLx_GJC8c.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 0rem;
+}
+
+.list-group {
+  margin-bottom: 4rem;
+}
+
+.main-footer {
+  background-color: #000;
+  padding: 20px 0;
+  color: #fff;
+}
+/*# sourceMappingURL=index.css.map */

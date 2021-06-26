@@ -1,0 +1,43 @@
+@import "./all.scss";
+.carousel-caption {
+    h5 {
+        font-size: 3.25rem;
+    }
+    p {
+        font-size: 2rem;
+    }
+}
+
+.main-footer {
+    background-color: $footercolor;
+    padding: 20px 0;
+    color: $textcolor;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.list-group {
+    .active {
+        background-color: transparent;
+        color: #000;
+        border-color: rgba(0, 0, 0, .125);
+    }
+    .list-group-item {
+        &:hover {
+            background-color: #007bff;
+            color: #fff;
+        }
+    }
+}
+
+.row {
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+    .list-group {
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,cAAc,CAAC;EACX,gBAAgB,EAAE,kCAAkC;EACpD,mBAAmB,EAAE,aAAa;EAClC,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,SAAS;EAC1B,OAAO,EAAE,QAAQ;EACjB,KAAK,EAAE,IAAI;CACd;;AAED,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,SAAS;CACrB;;AAED,AACI,gBADY,CACZ,KAAK,CAAC;EACF,WAAW,EAAE,GAAG;CACnB;;AAGL,AAAA,YAAY,CAAC;EACT,gBAAgB,ECrBP,IAAI;EDsBb,OAAO,EAAE,MAAM;EACf,KAAK,ECtBE,IAAI;CDuBd",
+    "sources": [
+        "discount.scss",
+        "all.scss"
+    ],
+    "names": [],
+    "file": "discount.css"
+}

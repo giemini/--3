@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav li.nav-item .nav-link {
+  color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.navbar-light .navbar-nav li.nav-item .disabled {
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.5);
+  pointer-events: visible;
+}
+/*# sourceMappingURL=navbar.css.map */
